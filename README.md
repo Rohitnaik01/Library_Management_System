@@ -107,7 +107,8 @@ Update the following in hibernate.cfg.xml if needed:
 <property name="hibernate.connection.username">root</property>
 <property name="hibernate.connection.password">your_password</property>
 
-3️⃣ Run the Application
+
+### 3️⃣ Run the Application
 
 Import the project as a Maven Project in your IDE
 
@@ -117,7 +118,8 @@ Run App.java
 
 Follow the console menu options
 
-📘 What I Learned
+
+### 📘 What I Learned
 
 Using Hibernate ORM to map Java classes to database tables
 
@@ -131,6 +133,7 @@ Managing transactions with Hibernate
 
 Structuring projects using layered architecture
 
+
 ### 🚀 Future Improvements
 
 Implement book issue and return functionality
@@ -143,7 +146,8 @@ Improve console UI and validations
 
 Convert the project into a web application using Spring Boot
 
-👤 Author
+
+### 👤 Author
 
 Naik Rohit Ramesh
 GitHub: https://github.com/Rohitnaik01
