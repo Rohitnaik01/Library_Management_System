@@ -108,7 +108,7 @@ Update the following in hibernate.cfg.xml if needed:
 <property name="hibernate.connection.password">your_password</property>
 
 
-### 3️⃣ Run the Application
+3️⃣ Run the Application
 
 Import the project as a Maven Project in your IDE
 
