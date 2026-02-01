@@ -131,7 +131,7 @@ Managing transactions with Hibernate
 
 Structuring projects using layered architecture
 
-🚀 Future Improvements
+### 🚀 Future Improvements
 
 Implement book issue and return functionality
 
